@@ -1,7 +1,3 @@
-//Gilberto Mota de Oliveira Junior
-//Iago Henrique Schlemper
-//Arthur Abreu
-
 import kotlin.random.Random
 
 fun main() {
